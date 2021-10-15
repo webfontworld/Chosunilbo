@@ -1,8 +1,8 @@
 # Chosunilbo
 
 ## 조선일보 조선신명조(ChosunSm)<br>
-https://webfontworld.github.io/woowahan/ChosunSm.css<br>
-https://webfontworld.github.io/woowahan/ChosunSm.html
+https://webfontworld.github.io/Chosunilbo/ChosunSm.css<br>
+https://webfontworld.github.io/Chosunilbo/ChosunSm.html
 <pre>
 @font-face {
     font-family: 'ChosunSm';
@@ -14,8 +14,8 @@ https://webfontworld.github.io/woowahan/ChosunSm.html
 </pre>
 
 ## 조선일보 조선굵은명조(ChosunKm)<br>
-https://webfontworld.github.io/woowahan/ChosunKm.css<br>
-https://webfontworld.github.io/woowahan/ChosunKm.html
+https://webfontworld.github.io/Chosunilbo/ChosunKm.css<br>
+https://webfontworld.github.io/Chosunilbo/ChosunKm.html
 <pre>
 @font-face {
     font-family: 'ChosunKm';
@@ -27,8 +27,8 @@ https://webfontworld.github.io/woowahan/ChosunKm.html
 </pre>
 
 ## 조선일보 조선가는고딕(ChosunSg)<br>
-https://webfontworld.github.io/woowahan/ChosunSg.css<br>
-https://webfontworld.github.io/woowahan/ChosunSg.html
+https://webfontworld.github.io/Chosunilbo/ChosunSg.css<br>
+https://webfontworld.github.io/Chosunilbo/ChosunSg.html
 <pre>
 @font-face {
     font-family: 'ChosunSg';
@@ -40,8 +40,8 @@ https://webfontworld.github.io/woowahan/ChosunSg.html
 </pre>
 
 ## 조선일보 조선굵은고딕(ChosunKg)<br>
-https://webfontworld.github.io/woowahan/ChosunKg.css<br>
-https://webfontworld.github.io/woowahan/ChosunKg.html
+https://webfontworld.github.io/Chosunilbo/ChosunKg.css<br>
+https://webfontworld.github.io/Chosunilbo/ChosunKg.html
 <pre>
 @font-face {
     font-family: 'ChosunKg';
@@ -53,8 +53,8 @@ https://webfontworld.github.io/woowahan/ChosunKg.html
 </pre>
 
 ## 조선일보 조선견고딕(ChosunBg)<br>
-https://webfontworld.github.io/woowahan/ChosunBg.css<br>
-https://webfontworld.github.io/woowahan/ChosunBg.html
+https://webfontworld.github.io/Chosunilbo/ChosunBg.css<br>
+https://webfontworld.github.io/Chosunilbo/ChosunBg.html
 <pre>
 @font-face {
     font-family: 'ChosunBg';
@@ -66,8 +66,8 @@ https://webfontworld.github.io/woowahan/ChosunBg.html
 </pre>
 
 ## 조선일보 조선굴림체(ChosunGu)<br>
-https://webfontworld.github.io/woowahan/ChosunGu.css<br>
-https://webfontworld.github.io/woowahan/ChosunGu.html
+https://webfontworld.github.io/Chosunilbo/ChosunGu.css<br>
+https://webfontworld.github.io/Chosunilbo/ChosunGu.html
 <pre>
 @font-face {
     font-family: 'ChosunSm';
@@ -79,8 +79,8 @@ https://webfontworld.github.io/woowahan/ChosunGu.html
 </pre>
 
 ## 조선일보 조선궁서체(ChosunGs)<br>
-https://webfontworld.github.io/woowahan/ChosunGs.css<br>
-https://webfontworld.github.io/woowahan/ChosunGs.html
+https://webfontworld.github.io/Chosunilbo/ChosunGs.css<br>
+https://webfontworld.github.io/Chosunilbo/ChosunGs.html
 <pre>
 @font-face {
     font-family: 'ChosunSm';
@@ -92,8 +92,8 @@ https://webfontworld.github.io/woowahan/ChosunGs.html
 </pre>
 
 ## 조선일보 조선로고체(ChosunLo)<br>
-https://webfontworld.github.io/woowahan/ChosunLo.css<br>
-https://webfontworld.github.io/woowahan/ChosunLo.html
+https://webfontworld.github.io/Chosunilbo/ChosunLo.css<br>
+https://webfontworld.github.io/Chosunilbo/ChosunLo.html
 <pre>
 @font-face {
     font-family: 'ChosunKm';
@@ -105,8 +105,8 @@ https://webfontworld.github.io/woowahan/ChosunLo.html
 </pre>
 
 ## 조선일보 조선일보명조(ChosunNm)<br>
-https://webfontworld.github.io/woowahan/ChosunNm.css<br>
-https://webfontworld.github.io/woowahan/ChosunNm.html
+https://webfontworld.github.io/Chosunilbo/ChosunNm.css<br>
+https://webfontworld.github.io/Chosunilbo/ChosunNm.html
 <pre>
 @font-face {
     font-family: 'ChosunSm';
